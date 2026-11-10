@@ -17,4 +17,4 @@ Ingeniero Civil en Computación mención Informática (UTEM), en Santiago de Chi
 
 Los repos públicos más antiguos son las entregas finales de los cursos de Desarrollo Web, JavaScript, React y Backend de CoderHouse. El código de MyClubHub es privado porque es un producto comercial.
 
-📫 mauro@myclubhub.cl
+📫 mauro.zm02@gmail.com
